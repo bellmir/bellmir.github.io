@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknow_here=self.webpackChunknow_here||[]).push([[259],{2259:function(n,e,c){c.r(e);var s,i=c(168),r=c(6444),a=c(184),l=r.ZP.section(s||(s=(0,i.Z)(["\n  .c_inner{\n\n  }\n"])));e.default=function(){return(0,a.jsx)(l,{className:"c_main_section",children:(0,a.jsx)("div",{className:"c_section",children:(0,a.jsx)("div",{className:"c_inner",children:"Terms"})})})}}}]);
+//# sourceMappingURL=259.e7d31e62.chunk.js.map
